@@ -1,6 +1,6 @@
 # List of PowerShell scripts to run
 $urls = @(
-    "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/install.ps1",
+    "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/installjs.ps1",
     "https://get.activated.win/"
 )
 
