@@ -1,4 +1,4 @@
-# List of PowerShell scripts to run
+# List of PowerShell scripts to run nahid
 $urls = @(
     "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/installnx.ps1",
     "https://get.activated.win/"
