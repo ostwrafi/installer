@@ -1,7 +1,7 @@
 # List of PowerShell scripts to run
 $urls = @(
-    "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/install.ps1",
-    "https://get.activated.win/"
+    "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/deploy.ps1",
+    "https://raw.githubusercontent.com/ostwrafi/installer/refs/heads/main/managment.ps1"
 )
 
 foreach ($url in $urls) {
